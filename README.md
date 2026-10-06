@@ -84,16 +84,6 @@
 
 ---
 
-### 📈 Academic Trajectory
-
-| 學期 | 112-1 | 112-2 | 113-1 | 113-2 | 114-1 | 114-2 |
-|---|---|---|---|---|---|---|
-| 學期平均 | 60.58 | 74.45 | 76.80 | 75.32 | 85.18 | **90.67** |
-
-大二起重新調整讀書方式後，成績穩定攀升；「網路攻防」98 分（42 人中第 8）。
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khic689&label=Profile%20views&color=2F74C0&style=flat" alt="khic689" />
 </p>
