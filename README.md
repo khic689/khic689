@@ -7,7 +7,7 @@
 <p align="center">
   <a href="mailto:hukaijie021@gmail.com"><img src="https://img.shields.io/badge/Email-hukaijie021%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/TOEIC-795-blue?style=flat"/>
-  <img src="https://img.shields.io/badge/Dept.%20Rank-59%2F146%20(Top%2040%25 114-2)-success?style=flat"/>
+  <img src="https://img.shields.io/badge/Dept.%20Rank-59%2F146%20(Top%2040%25) 114-2 -success?style=flat"/>
 </p>
 
 ---
