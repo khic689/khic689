@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F74C0&center=true&vCenter=true&width=600&lines=Computer+Science+%40+Yuan+Ze+University;Deep+Learning+%26+Computer+Vision;Security-curious+Engineer" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/TOEIC-795-blue?style=flat"/>
-</p>
-
 ---
 
 ### About Me
@@ -81,6 +77,10 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TOEIC-795-blue?style=flat"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=khic689&label=Profile%20views&color=2F74C0&style=flat" alt="khic689" />
