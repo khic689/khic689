@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Kai-Jie Hu 胡剴捷 👋</h1>
+<h1 align="center">Hi, I'm Jay Hu 胡剴捷 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F74C0&center=true&vCenter=true&width=600&lines=Computer+Science+%40+Yuan+Ze+University;Deep+Learning+%26+Computer+Vision;Security-curious+Engineer" alt="Typing SVG" />
